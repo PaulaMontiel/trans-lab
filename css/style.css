@@ -1,1 +1,52 @@
-/* YeyeYeee código aquí */
+body{
+    background-color: #3B3938;
+}
+#loginbox{
+    margin-top:50px;
+}
+#signin{
+    float:right; font-size: 80%;
+    position: relative; 
+    top:-10px;
+}
+.panel-body{
+    padding-top:30px
+}
+#login-alert{
+    display:none;
+}
+.input-group{
+    margin-bottom: 25px;
+}.form-group{
+    margin-top:10px;
+}
+.donthave{
+    border-top: 1px solid#888;
+    padding-top:15px;
+    font-size:85%;
+}
+#loginbox{
+    border: #F5AC36;
+}
+.btn-yel{
+    background-color: #F5AC36;
+    border:none;
+    border-radius: 0;
+
+}
+#loginform{
+    background-color: white;
+    padding: 1em;
+}
+.form-horizontal{
+    border: 4px #F5AC36;
+}
+.form-control{
+    border-radius: none;
+}
+.tittle{
+    color: #F5AC36;
+}
+login.html{
+    
+}
